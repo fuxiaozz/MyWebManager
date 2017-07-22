@@ -1,0 +1,5 @@
+.DS_Store
+/.deploy_git
+/.git
+/node_modules
+/public
