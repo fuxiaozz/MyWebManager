@@ -3,6 +3,7 @@ title: Better Java (1)- JDK8中有关时间的操作
 date: 2016-10-18 16:37:16
 tags: Java
 categories: Java
+description: <<Java技术手册（第6版）>> 读书笔记
 ---
 
 ## Better Java (1)- JDK8中有关时间的操作
