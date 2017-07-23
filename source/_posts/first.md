@@ -5,6 +5,7 @@ tags: hexo
 categories: 杂谈
 comments: false
 description: 网站开通
+toc: true
 ---
 
 ## 个人网站开通

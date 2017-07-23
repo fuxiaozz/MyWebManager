@@ -3,6 +3,7 @@ title: 备案, 重新搭建
 date: 2017-07-23 01:47:40
 tags: hexo
 description: 重新搭建hexo后遇到的问题
+toc: true
 ---
 
 ## 重新搭建网站

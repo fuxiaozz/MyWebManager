@@ -4,6 +4,7 @@ date: 2016-10-17 13:43:45
 tags: hexo
 categories: 杂谈
 description: 优化你的Hexo
+toc: true
 ---
 
 ## GithubPage上hexo的优化
