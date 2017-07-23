@@ -4,14 +4,14 @@ date: 2017-07-23 01:47:40
 tags: hexo
 ---
 
-# 重新搭建网站
+## 重新搭建网站
 
 
 周六, 又重新备案一次.....
 
 操作系统重新安装后, 重新搭建hexo, 出了很多问题.
 
-## 问题列表
+### 问题列表
 
 * `sh: highlight_alias.json: Permission denied`
 
@@ -33,7 +33,7 @@ tags: hexo
     
     因为我用的是 `next` 主题, 所以按照官网的操作在下载一下就好了. [官网地址](http://theme-next.iissnan.com/getting-started.html)
     
-## 修改主题
+### 修改主题
 
 使用: [maupassant-hexo](https://www.haomwei.com/technology/maupassant-hexo.html)
 

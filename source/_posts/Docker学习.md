@@ -6,9 +6,9 @@ categories: docker
 comments: false
 ---
 
-# Docker学习笔记
+## Docker学习笔记
 
-## 简介
+### 简介
 
 基本概念
 
@@ -16,9 +16,9 @@ comments: false
 * 容器(Container)
 * 仓库(Repositroy)
 
-## 基本概念
+### 基本概念
 
-### 镜像
+#### 镜像
 
 Docker镜像(Image): 相当于一个`root`文件系统. 比如个官方镜像`ubuntu:14.04`就包含了一套Ubuntu14.04最小系统的`root`文件系统.
 
