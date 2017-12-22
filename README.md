@@ -7,6 +7,8 @@
 ```
 npm i
 git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
+npm i hexo-renderer-pug --save
+npm i hexo-renderer-sass --save
 ```
 
 ## 配置主题
