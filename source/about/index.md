@@ -10,5 +10,5 @@ comments: false
 
 我的联系方式
 
-emaill: fuxiao86@163.com
+Email: im.fu.xiao@gmail.com
 
