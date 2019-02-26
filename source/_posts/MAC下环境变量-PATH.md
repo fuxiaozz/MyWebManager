@@ -1,7 +1,7 @@
 ---
 title: MAC下环境变量$PATH
 date: 2019-02-26 12:47:32
-tags:
+tags: macos
 ---
 ## MAC环境变量`$PATH`
 
